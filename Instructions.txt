@@ -7,7 +7,7 @@ If running in idle
 
 If running in command prompt or terminal
 2. Go into systems folder
-3. Locate and open "ClearTerminal.py"
+3. Locate and open "ClearTerminal.py" in idle (or what ever allows you to edit the code)
 4. Remove first hashtag on line 13
 5. Close file and go back to game folder
 6. Run main.py
